@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm Leruo, aka Caseiin, a developer and engineer based in South Africa.
+
+I have a passion for designing and building things that are cool.
+
+If I see, something that looks like it belongs in a movie made by an engineering genuis. I will try to learn and build it.
+
 <!--
 **Caseiin/Caseiin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
